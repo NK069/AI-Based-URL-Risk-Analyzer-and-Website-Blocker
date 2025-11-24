@@ -30,8 +30,6 @@ pip install -r requirements.txt
 sudo python3 app.py
 ```
 
-## 📸 Screenshots
-(Add after uploading)
 
 ## 📌 License
 MIT License – Paresh Kulkarni
