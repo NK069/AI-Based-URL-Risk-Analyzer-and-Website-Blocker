@@ -3,6 +3,7 @@
 
 ### 👤 Author: **Paresh Kulkarni**
 
+
 This project uses Machine Learning to analyze URLs and block malicious websites 
 using the Linux `/etc/hosts` mechanism. A modern Flask UI allows checking, blocking, 
 and unblocking of websites.
@@ -29,6 +30,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 sudo python3 app.py
 ```
+Scre<img width="958" height="562" alt="Screenshot 2025-11-24 124703" src="https://github.com/user-attachments/assets/df8623ca-34a7-4288-97bd-e077ebedaf63" />
+enshots
 
 
 ## 📌 License
